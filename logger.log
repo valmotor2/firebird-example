@@ -1,0 +1,95 @@
+{"message":"The file: userinfo.csv was created in: d:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file userinfo.csv was completed with new data.","level":"info"}
+{"message":"The file: userinfo.csv was created in: d:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file userinfo.csv was completed with new data.","level":"info"}
+{"message":"The file: cereriimp.csv was created in: d:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file cereriimp.csv was completed with new data.","level":"info"}
+{"message":"The file: impgraf.csv was created in: d:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file impgraf.csv was completed with new data.","level":"info"}
+{"message":"The file: giranti.csv was created in: d:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file giranti.csv was completed with new data.","level":"info"}
+{"message":"File: userinfo.csv was uploaded! ","level":"info"}
+{"message":"File: cereriimp.csv was uploaded! ","level":"info"}
+{"message":"File: impgraf.csv was uploaded! ","level":"info"}
+{"message":"File: giranti.csv was uploaded! ","level":"info"}
+{"message":"The file: userinfo.csv was created in: d:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file userinfo.csv was completed with new data.","level":"info"}
+{"message":"The file: cereriimp.csv was created in: d:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file cereriimp.csv was completed with new data.","level":"info"}
+{"message":"The file: impgraf.csv was created in: d:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file impgraf.csv was completed with new data.","level":"info"}
+{"message":"The file: giranti.csv was created in: d:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file giranti.csv was completed with new data.","level":"info"}
+{"message":"File: userinfo.csv was uploaded! ","level":"info"}
+{"message":"File: cereriimp.csv was uploaded! ","level":"info"}
+{"message":"File: impgraf.csv was uploaded! ","level":"info"}
+{"message":"File: giranti.csv was uploaded! ","level":"info"}
+{"message":"The file: userinfo.csv was created in: C:\\CODE\\temp and now will be write with new data!","level":"info"}
+{"message":"The file userinfo.csv was completed with new data.","level":"info"}
+{"message":"The file: cereriimp.csv was created in: C:\\CODE\\temp and now will be write with new data!","level":"info"}
+{"message":"The file cereriimp.csv was completed with new data.","level":"info"}
+{"message":"The file: impgraf.csv was created in: C:\\CODE\\temp and now will be write with new data!","level":"info"}
+{"message":"The file impgraf.csv was completed with new data.","level":"info"}
+{"message":"The file: giranti.csv was created in: C:\\CODE\\temp and now will be write with new data!","level":"info"}
+{"message":"The file giranti.csv was completed with new data.","level":"info"}
+{"message":"File: userinfo.csv was uploaded! ","level":"info"}
+{"message":"File: cereriimp.csv was uploaded! ","level":"info"}
+{"message":"File: impgraf.csv was uploaded! ","level":"info"}
+{"message":"File: giranti.csv was uploaded! ","level":"info"}
+{"level":"error","message":"Error get data:I/O error during \"CreateFile (open)\" operation for file \"D:\\S3DBNODE.FDB\", Error while trying to open file","stack":"Error: I/O error during \"CreateFile (open)\" operation for file \"D:\\S3DBNODE.FDB\", Error while trying to open file\n    at doCallback (C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\index.js:1234:18)\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\index.js:2953:21\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:151:25\n    at search (C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:117:13)\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:54:21\n    at FSReqCallback.wrapper [as oncomplete] (fs.js:516:5)"}
+{"level":"error","message":"Error get data:I/O error during \"CreateFile (open)\" operation for file \"D:\\S3DBNODE.FDB\", Error while trying to open file","stack":"Error: I/O error during \"CreateFile (open)\" operation for file \"D:\\S3DBNODE.FDB\", Error while trying to open file\n    at doCallback (C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\index.js:1234:18)\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\index.js:2953:21\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:151:25\n    at search (C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:117:13)\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:54:21\n    at FSReqCallback.wrapper [as oncomplete] (fs.js:516:5)"}
+{"level":"error","message":"Error get data:I/O error during \"CreateFile (open)\" operation for file \"D:\\S3DBNODE.FDB\", Error while trying to open file","stack":"Error: I/O error during \"CreateFile (open)\" operation for file \"D:\\S3DBNODE.FDB\", Error while trying to open file\n    at doCallback (C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\index.js:1234:18)\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\index.js:2953:21\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:151:25\n    at search (C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:117:13)\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:54:21\n    at FSReqCallback.wrapper [as oncomplete] (fs.js:516:5)"}
+{"level":"error","message":"Error get data:I/O error during \"CreateFile (open)\" operation for file \"D:\\S3DBNODE.FDB\", Error while trying to open file","stack":"Error: I/O error during \"CreateFile (open)\" operation for file \"D:\\S3DBNODE.FDB\", Error while trying to open file\n    at doCallback (C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\index.js:1234:18)\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\index.js:2953:21\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:151:25\n    at search (C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:117:13)\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:54:21\n    at FSReqCallback.wrapper [as oncomplete] (fs.js:516:5)"}
+{"level":"error","message":"Error get data:I/O error during \"CreateFile (open)\" operation for file \"D:\\S3DBNODE.FDB\", Error while trying to open file","stack":"Error: I/O error during \"CreateFile (open)\" operation for file \"D:\\S3DBNODE.FDB\", Error while trying to open file\n    at doCallback (C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\index.js:1234:18)\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\index.js:2953:21\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:151:25\n    at search (C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:117:13)\n    at C:\\CODE\\node_firebird\\node_modules\\node-firebird\\lib\\messages.js:54:21\n    at FSReqCallback.wrapper [as oncomplete] (fs.js:516:5)"}
+{"message":"The file: userinfo.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file: userinfo.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file: userinfo.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file: userinfo.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file: userinfo.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file userinfo.csv was completed with new data.","level":"info"}
+{"message":"The file: cereriimp.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file cereriimp.csv was completed with new data.","level":"info"}
+{"message":"The file: impgraf.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file impgraf.csv was completed with new data.","level":"info"}
+{"message":"The file: giranti.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file giranti.csv was completed with new data.","level":"info"}
+{"message":"File: userinfo.csv was uploaded! ","level":"info"}
+{"message":"File: cereriimp.csv was uploaded! ","level":"info"}
+{"message":"File: impgraf.csv was uploaded! ","level":"info"}
+{"message":"File: giranti.csv was uploaded! ","level":"info"}
+{"message":"The file: userinfo.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file userinfo.csv was completed with new data.","level":"info"}
+{"message":"The file: cereriimp.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file cereriimp.csv was completed with new data.","level":"info"}
+{"message":"The file: impgraf.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file impgraf.csv was completed with new data.","level":"info"}
+{"message":"The file: giranti.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file giranti.csv was completed with new data.","level":"info"}
+{"message":"File: userinfo.csv was uploaded! ","level":"info"}
+{"message":"File: cereriimp.csv was uploaded! ","level":"info"}
+{"message":"File: impgraf.csv was uploaded! ","level":"info"}
+{"message":"File: giranti.csv was uploaded! ","level":"info"}
+{"message":"The file: userinfo.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file userinfo.csv was completed with new data.","level":"info"}
+{"message":"The file: cereriimp.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file cereriimp.csv was completed with new data.","level":"info"}
+{"message":"The file: impgraf.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file impgraf.csv was completed with new data.","level":"info"}
+{"message":"The file: giranti.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file giranti.csv was completed with new data.","level":"info"}
+{"message":"File: userinfo.csv was uploaded! ","level":"info"}
+{"message":"File: cereriimp.csv was uploaded! ","level":"info"}
+{"message":"File: impgraf.csv was uploaded! ","level":"info"}
+{"message":"File: giranti.csv was uploaded! ","level":"info"}
+{"message":"The file: userinfo.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file userinfo.csv was completed with new data.","level":"info"}
+{"message":"The file: cereriimp.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file cereriimp.csv was completed with new data.","level":"info"}
+{"message":"The file: impgraf.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file impgraf.csv was completed with new data.","level":"info"}
+{"message":"The file: giranti.csv was created in: C:\\temp and now will be write with new data!","level":"info"}
+{"message":"The file giranti.csv was completed with new data.","level":"info"}
+{"message":"File: userinfo.csv was uploaded! ","level":"info"}
+{"message":"File: cereriimp.csv was uploaded! ","level":"info"}
+{"message":"File: impgraf.csv was uploaded! ","level":"info"}
+{"message":"File: giranti.csv was uploaded! ","level":"info"}

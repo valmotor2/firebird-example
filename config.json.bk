@@ -1,0 +1,22 @@
+{
+  "isProduct": false,
+  "firebird": {
+    "database": "*.fdb",
+    "host": "127.0.0.1",
+    "port": 3050,
+    "user": "SYSDBA",
+    "password": "masterkey",
+    "lowercase_keys": false,
+    "pageSize": 4096
+  },
+  "saveCsvFiles": {
+    "path": "C:\\temp"
+  },
+  "ftpForUploadData": {
+    "host": "",
+    "user": "",
+    "password": "",
+    "port": 21,
+    "path": "/"
+  }
+}
