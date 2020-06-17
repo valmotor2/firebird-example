@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "watch-ts": "tsc -w",
-    "work": "set DEBUG=bit-* & concurrently -k -p \"[{name}]\" -n \"TypeScript, Node\" -c \"yellow.bold,cyan.bold,green.bold\" \"npm run watch-ts\" \"nodemon dist/start.js\""
+    "work": "set DEBUG=bit-* & concurrently -k -p \"[{name}]\" -n \"TypeScript, Node\" -c \"yellow.bold,cyan.bold,green.bold\" \"npm run watch-ts\" \"nodemon ./dist/start.js\""
   },
   "author": "",
   "license": "ISC",
